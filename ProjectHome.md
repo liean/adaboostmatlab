@@ -1,0 +1,1 @@
+This is a matlab implementation of Adaptive Boosting a very commonly used pattern recognition/ machine learning technique. One dimensional decision stumps are used as weak learners. The code works for both binary and multiple class scenarios.
